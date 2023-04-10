@@ -2,7 +2,7 @@
 
 # Artifical Intelligence in Healthcare
 ## Author
-- [@novotz](https://github.com/novotz)
+- [@noahvodde](https://github.com/noahvodde)
 
 ## Details
 After writing my bachelor's thesis on the potential of artificial intelligence in 
