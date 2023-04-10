@@ -9,7 +9,7 @@
 
 # Breast Cancer Detection
 ## Author
-- [@novotz](https://github.com/novotz)
+- [@noahvodde](https://github.com/noahvodde)
 
 ## Table of contents
 - [Project description](#1)
